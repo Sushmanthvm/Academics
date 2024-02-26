@@ -29,8 +29,8 @@
 
 * [**OAuth 1.0 playground with Wso2IS 4.0.0**](https://malalanayake.wordpress.com/2012/11/06/oauth-1-0-playground-with-wso2is/)
 
-- **Vulnerblity in OAuth 1.0**
+- [**Why  OAuth 1.0 failed**](https://www.loginradius.com/blog/engineering/what-is-the-difference-between-oauth1-and-oauth2/#:~:text=One%20of%20the%20commonly%20agreed,advantages%20OAuth2%20has%20over%20OAuth1)
 
-* [**Mitigation of OAuth which lead to OAuth 2.0**](https://www.loginradius.com/blog/engineering/what-is-the-difference-between-oauth1-and-oauth2/#:~:text=One%20of%20the%20commonly%20agreed,advantages%20OAuth2%20has%20over%20OAuth1)
+* [**Rectifyingof OAuth 1.0 which lead to OAuth 2.0**](https://www.loginradius.com/blog/engineering/what-is-the-difference-between-oauth1-and-oauth2/#:~:text=One%20of%20the%20commonly%20agreed,advantages%20OAuth2%20has%20over%20OAuth1)
     - [*another link*](https://medium.com/identity-beyond-borders/oauth-1-0-vs-oauth-2-0-e36f8924a835)
 
